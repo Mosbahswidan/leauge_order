@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.leauge_order">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="leauge_order"
         android:name="${applicationName}"
